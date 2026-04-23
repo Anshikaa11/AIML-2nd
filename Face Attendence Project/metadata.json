@@ -1,0 +1,7 @@
+{
+  "name": "FaceAttend AI",
+  "description": "A real-time face detection attendance system leveraging MediaPipe for detection and Firebase for secure data storage.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
